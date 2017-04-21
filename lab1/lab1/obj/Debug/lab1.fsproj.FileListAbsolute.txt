@@ -1,9 +1,0 @@
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\lab1.exe.config
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\lab1.XML
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\lab1.exe
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\lab1.pdb
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\FSharp.Core.dll
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\FSharp.Core.xml
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\bin\Debug\ru\FSharp.Core.resources.dll
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\obj\Debug\lab1.exe
-C:\UserFiles\Функциональное программирование(F#)\lab1\lab1\obj\Debug\lab1.pdb
